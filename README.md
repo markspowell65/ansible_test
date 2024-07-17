@@ -1,5 +1,5 @@
-# ansible_test
+# Ansible Test
 
-Repository to test ansible functionality
+Repository for testing ansibel in homelab
 
 
